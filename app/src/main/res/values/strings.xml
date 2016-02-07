@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnGarde Counter</string>
+    <string name="player1_text">Player 1</string>
+    <string name="player2_text">Player 2</string>
+    <string name="range_text">Range</string>
+    <string name="remaining_text">Remaining</string>
+</resources>
